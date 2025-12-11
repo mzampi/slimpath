@@ -3,12 +3,47 @@
     <title>SlimPath</title>
     <link href="https://slimpath.fit/feed.xml" rel="self" />
     <link href="https://slimpath.fit" />
-    <updated>2025-11-24T14:24:06+01:00</updated>
+    <updated>2025-12-11T07:50:10+01:00</updated>
     <author>
         <name>SlimPath</name>
     </author>
     <id>https://slimpath.fit</id>
 
+    <entry>
+        <title>Natale MAGRO: -5kg Senza Rinunce! </title>
+        <author>
+            <name>SlimPath</name>
+        </author>
+        <link href="https://slimpath.fit/posts/natale-magro-5kg-senza-rinunce/"/>
+        <id>https://slimpath.fit/posts/natale-magro-5kg-senza-rinunce/</id>
+        <media:content url="https://slimpath.fit/media/posts/23/alimentazione_natale.png" medium="image" />
+            <category term="dimagrire"/>
+            <category term="dieta"/>
+            <category term="diario alimentare"/>
+            <category term="Consigli"/>
+
+        <updated>2025-12-11T07:50:10+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://slimpath.fit/media/posts/23/alimentazione_natale.png" alt="" />
+                    Natale senza chili di troppo: guida all'alimentazione equilibrata per le feste. Scopri consigli pratici per goderti pranzi e cenoni mantenendo la linea. Prepara il corpo con una cucina leggera nelle settimane prima del Natale, riducendo porzioni e privilegiando verdure, cereali integrali e legumi. Evita formaggi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://slimpath.fit/media/posts/23/alimentazione_natale.png" class="type:primaryImage" alt="" /></p>
+                <p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">Natale senza chili di troppo: guida all'alimentazione equilibrata per le feste. Scopri consigli pratici per goderti pranzi e cenoni mantenendo la linea.</p>
+<h2 id="strategie-pre-feste" class="mb-2 mt-4 font-display font-semimedium text-base first:mt-0 md:text-lg [hr+&amp;]:mt-4">Strategie Pre-Feste</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">Prepara il corpo con una cucina leggera nelle settimane prima del Natale, riducendo porzioni e privilegiando verdure, cereali integrali e legumi. Evita formaggi grassi e carni processate, optando per pesce e carni bianche per alleggerire il fegato. Mantieni l'intestino efficiente con fibre da frutta e verdura, senza digiuni estremi.<span data-state="closed">​</span></p>
+<h2 id="durante-i-cenoni" class="mb-2 mt-4 font-display font-semimedium text-base first:mt-0 md:text-lg [hr+&amp;]:mt-4">Durante i Cenoni</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">Inizia ogni pasto con insalata fresca e olio extravergine per saziare senza calorie extra. Scegli proteine magre come tacchino, pollo o legumi, abbinandole a contorni di cavolo, broccoli e verdure crucifere. Porziona frutta secca a 20-30g, ideale come spuntino saziante ricco di omega-3.<span data-state="closed">​</span></p>
+<h2 id="antipasti-e-dolci-smart" class="mb-2 mt-4 font-display font-semimedium text-base first:mt-0 md:text-lg [hr+&amp;]:mt-4">Antipasti e Dolci Smart</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">Sostituisci olive e salumi con crudité, hummus o carpacci di pesce per antipasti leggeri. Ok a panettone e pandoro in moderazione, senza divieti totali, bilanciando con giorni più magri. Integra proteine negli antipasti, come uova o tofu, per controllare l'appetito.<span data-state="closed">​</span></p>
+<h2 id="post-feste-detox" class="mb-2 mt-4 font-display font-semimedium text-base first:mt-0 md:text-lg [hr+&amp;]:mt-4">Post-Feste Detox</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">Dopo i cenoni, punta su zuppe di verdure, pesce magro e frutta fresca per recuperare equilibrio. Colazione nutriente con cereali integrali, yogurt e frutta di stagione aiuta il detox naturale. Evita spuntini fuori pasto, strutturando 3 pasti e 2 snack fissi.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Non crederai ai benefici del vogatore in palestra: scopri il segreto!</title>
         <author>
@@ -22,7 +57,7 @@
             <category term="fitness"/>
 
         <updated>2025-11-24T14:24:06+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://slimpath.fit/media/posts/22/vogatore.png" alt="" />
                     Il vogatore è uno degli attrezzi più completi e versatili presenti nelle palestre moderne. Negli ultimi anni, sempre più persone lo scelgono come parte integrante del proprio allenamento grazie alla capacità di coinvolgere quasi tutti i gruppi muscolari, migliorare la resistenza cardiovascolare e favorire un’elevata&hellip;
@@ -126,7 +161,7 @@
             <category term="Consigli"/>
 
         <updated>2025-09-21T11:55:22+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://slimpath.fit/media/posts/21/IAF00120442_7d74.webp" alt="" />
                     Oggi voglio condividere una semplice abitudine che ha rivoluzionato il mio benessere quotidiano: assumere un multivitaminico ogni mattina. Dopo aver provato diversi integratori, ho scelto il Multi VITAMIN di Yamamoto Nutrition, un prodotto che concentra in una sola compressa oltre 26 vitamine, minerali e antiossidanti&hellip;
@@ -201,7 +236,7 @@
             <category term="diario alimentare"/>
 
         <updated>2025-09-20T07:22:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     La dieta ipocalorica è un regime alimentare che prevede una riduzione dell’apporto energetico giornaliero rispetto al fabbisogno normale di una persona. Il termine “ipocalorico” infatti deriva dall’unione di “ipo”, che significa “poco” o “ridotto”, e “calorico”, cioè legato alle calorie introdotte attraverso gli alimenti. Seguire&hellip;
                 ]]>
@@ -228,7 +263,7 @@
             <category term="Consigli"/>
 
         <updated>2025-08-22T20:48:09+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     La sciatalgia, spesso causata da compressioni o tensioni sulla zona lombare, può essere alleviata con semplici esercizi di stretching mirati che migliorano la flessibilità e decongestionano i muscoli della parte bassa della schiena. Ecco alcune proposte dalla guida allegata, adattate per chi soffre di sciatalgia:&hellip;
                 ]]>
@@ -276,7 +311,7 @@
             <category term="fitness"/>
 
         <updated>2025-08-22T20:46:01+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Un allenamento total body permette di stimolare tutti i principali gruppi muscolari in un’unica sessione, ottimizzando il tempo e garantendo un lavoro equilibrato su tutto il corpo. Questo circuito da 60 minuti può essere adattato sia a chi si allena in palestra che a chi lo svolge&hellip;
                 ]]>
@@ -400,7 +435,7 @@
             <category term="fitness"/>
 
         <updated>2025-08-22T20:45:15+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Ti propongo un allenamento total body di 1 ora senza attrezzi, da svolgere ovunque (casa, parco, palestra). L’obiettivo è stimolare forza, resistenza e mobilità solo a corpo libero. Corsa leggera sul posto o skip alto: 2 minuti Jumping jacks: 1 minuto Affondi indietro a corpo libero (senza peso):&hellip;
                 ]]>
@@ -520,7 +555,7 @@
             <category term="Consigli"/>
 
         <updated>2025-08-16T15:42:50+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://slimpath.fit/media/posts/16/alpha_lipoic_acid.png" alt="" />
                     L’acido alfa lipoico è una molecola che riveste un ruolo fondamentale sia per chi segue una dieta equilibrata che per chi pratica attività fisica regolare. Prodotto naturalmente dal nostro organismo, si distingue per le sue proprietà antiossidanti e il suo coinvolgimento nei principali processi metabolici,&hellip;
@@ -548,7 +583,7 @@
             <category term="Consigli"/>
 
         <updated>2025-07-13T11:46:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Da tempo sono attenta al mio benessere generale e, tra i vari integratori naturali che ho provato, la Berberina HCL 500 di Perpetual Nutrition si è rivelata una scelta che sento di poter consigliare. Voglio condividere la mia esperienza personale e le caratteristiche che mi&hellip;
                 ]]>
@@ -588,7 +623,7 @@
             <category term="Consigli"/>
 
         <updated>2025-07-11T22:37:51+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     L’attività sportiva, sia a livello amatoriale che agonistico, comporta un aumento del fabbisogno energetico e di specifici nutrienti. Gli integratori alimentari rappresentano un valido supporto per chi pratica sport, aiutando a colmare eventuali carenze nutrizionali e a migliorare le performance fisiche. Cosa sono gli integratori&hellip;
                 ]]>
@@ -625,39 +660,6 @@
 <div> </div>
 <div>Gli integratori alimentari sono strumenti preziosi per chi pratica sport, aiutando a mantenere alte le prestazioni, favorire il recupero e prevenire carenze nutrizionali. La loro assunzione, se ben calibrata e consapevole, contribuisce a uno stile di vita sano e a risultati sportivi ottimali.</div>
 <div> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Perché cambiare la scheda di allenamento dopo sei settimane?</title>
-        <author>
-            <name>SlimPath</name>
-        </author>
-        <link href="https://slimpath.fit/posts/perche-cambiare-la-scheda-di-allenamento-dopo-sei-settimane/"/>
-        <id>https://slimpath.fit/posts/perche-cambiare-la-scheda-di-allenamento-dopo-sei-settimane/</id>
-            <category term="workout"/>
-            <category term="palestra"/>
-            <category term="fitness"/>
-
-        <updated>2025-07-10T12:58:04+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Cambiare la scheda di allenamento ogni sei settimane è una strategia fondamentale per massimizzare i risultati, prevenire infortuni e mantenere alta la motivazione, soprattutto per chi è alle prime armi. In sintesi, aggiornare la scheda ogni sei settimane permette di ottimizzare i risultati, prevenire infortuni&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://slimpath.fit/media/posts/13/82dc518b-7845-4312-86a0-088ffc2ffd7b.png" alt="" width="1536" height="1024" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://slimpath.fit/media/posts/13/responsive/82dc518b-7845-4312-86a0-088ffc2ffd7b-xs.png 300w ,https://slimpath.fit/media/posts/13/responsive/82dc518b-7845-4312-86a0-088ffc2ffd7b-sm.png 480w ,https://slimpath.fit/media/posts/13/responsive/82dc518b-7845-4312-86a0-088ffc2ffd7b-md.png 768w"></figure>
-<p class="my-0">Cambiare la scheda di allenamento ogni sei settimane è una strategia fondamentale per massimizzare i risultati, prevenire infortuni e mantenere alta la motivazione, soprattutto per chi è alle prime armi.</p>
-<h2 class="mb-xs mt-5 text-base font-[500] first:mt-0 dark:font-[475]">I principali motivi per variare la scheda:</h2>
-<ul>
-<li><strong>Adattamento muscolare:</strong> dopo alcune settimane il corpo si adatta agli esercizi, riducendo l’efficacia dello stimolo allenante.</li>
-<li><strong>Prevenzione dello stallo:</strong> continuare troppo a lungo con la stessa routine può portare a uno stallo nei progressi. Variare esercizi e intensità “sorprende” i muscoli e stimola nuovi miglioramenti.</li>
-<li><strong>Riduzione del rischio di infortuni:</strong> Ripetere sempre gli stessi movimenti può sovraccaricare articolazioni e tendini. Cambiare esercizi favorisce un allenamento più equilibrato e sicuro</li>
-<li><strong>Motivazione:</strong> la varietà mantiene alto l’interesse, riduce la monotonia e aiuta a non abbandonare l’allenamento.</li>
-<li><strong>Progressione graduale:</strong> dopo sei settimane le capacità migliorano: è il momento di aumentare la difficoltà e introdurre nuovi stimoli per continuare a progredire.</li>
-</ul>
-<p class="my-0">In sintesi, aggiornare la scheda ogni sei settimane permette di ottimizzare i risultati, prevenire infortuni e mantenere alta la motivazione, adattando il percorso alle nuove capacità raggiunte.</p>
             ]]>
         </content>
     </entry>
